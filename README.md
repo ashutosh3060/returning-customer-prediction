@@ -1,4 +1,4 @@
-# friday-burger-mojito
+# Returning Customer Prediction
 
 ## Aim of this project: Predict which all customers are returning in the next 6 months
 
